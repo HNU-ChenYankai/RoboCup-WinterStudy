@@ -1,0 +1,7 @@
+image: /app/navigation/Fast-lio2/src/FAST_LIO/PCD/map.pgm
+resolution: 0.050000
+origin: [-10.950000, -11.000000, -nan]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
